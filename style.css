@@ -1,0 +1,38 @@
+
+/* Paleta de colores 
+.color1 { #00a0b0 };
+.color2 { #6a4a3c };
+.color3 { #cc333f };
+.color4 { #eb6841 };
+.color5 { #edc951 };
+*/
+
+
+
+.header{
+	background-color: #00a0b0;
+	color: #ffff;
+	padding: 30px;
+}
+
+body{
+	color: #000;
+	font-size: 14px;
+	text-align: justify;
+}
+.espacio {
+margin-top: 40px;
+margin-bottom: 20px; 
+
+
+
+}
+h3{
+	color: #edc951;
+}
+.card-body{
+	background-color:#eb6841;
+}
+.card-text{
+	color: #ffff;
+}
